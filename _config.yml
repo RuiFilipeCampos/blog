@@ -1,1 +1,12 @@
-theme: minimal-mistakes-jekyll
+# Site settings
+title: My Blog
+description: A simple blog powered by Jekyll and GitHub Pages
+url: https://myusername.github.io
+
+# Build settings
+theme: jekyll-theme-cayman
+permalink: /:title/
+
+# Social media settings
+twitter_username: mytwitterhandle
+github_username: mygithubusername
