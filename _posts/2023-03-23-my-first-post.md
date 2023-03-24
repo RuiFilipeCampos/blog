@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My First Post
+title: Hi world
 date: 2023-03-23
-author: John Doe
+author: Rui Campos
 ---
 
 
-Hello world ?
+Testing the post thigng.
