@@ -2,6 +2,9 @@
 title: My Blog
 description: My personal blog for sharing random musings and insights on a variety of subjects, regardless of my expertise. Join me in exploring ideas and sparking conversations.
 url: https://ruifilipecampos.github.io
+author:
+  name: Rui Campos
+  email: mail@ruicampos.org
 
 # Build settings
 theme: minima
