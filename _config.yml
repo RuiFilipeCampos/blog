@@ -8,8 +8,7 @@ theme: minima
 permalink: /:title/
 
 # Social media settings
-twitter_username: mytwitterhandle
-github_username: mygithubusername
+github_username: RuiFilipeCampos
 
 
 lsi: false
