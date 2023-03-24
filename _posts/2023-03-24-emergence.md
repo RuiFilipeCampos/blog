@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emergence: An Aspect of Consciousness, Not a Comprehensive Explanation
+title: "Emergence: An Aspect of Consciousness, Not a Comprehensive Explanation"
 date: 2023-03-23
 author: Rui Campos
 ---
