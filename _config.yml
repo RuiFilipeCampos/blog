@@ -4,7 +4,7 @@ description: A simple blog powered by Jekyll and GitHub Pages
 url: https://myusername.github.io
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: theme: minima
 permalink: /:title/
 
 # Social media settings
