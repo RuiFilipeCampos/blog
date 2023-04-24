@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Embracing Container Orchestration: The Benefits of Docker Compose and Docker Swarm over Supervisor-Managed Monolithic Containers
+title: Embracing Container Orchestration - The Benefits of Docker Compose and Docker Swarm over Supervisor-Managed Monolithic Containers
 date: 2023-04-24
 author: Rui Campos
 ---
